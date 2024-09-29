@@ -71,6 +71,7 @@ p {
   color: #272142;
   opacity: 70%;
   line-height: 30px;
+  text-align: justify;
 }
 
 .btn-branding-outline {
